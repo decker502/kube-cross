@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-cross:v1.4.2-1
+FROM gcr.io/google_containers/nginx-ingress-controller:0.7
 
